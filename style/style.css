@@ -156,7 +156,7 @@ body {
 
 .arrow {
     background-image: url(../Img/arrow.svg);
-    width: 123;
+    width: 123px;
     height: 23px;
     border: none;
     background-repeat: no-repeat;
